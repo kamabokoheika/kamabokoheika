@@ -1,5 +1,5 @@
 単なるかまぼこ<br>
-web site: <a href="https://kama5.f5.si/">kama5.f5.si</a><br>
+web site: <a href="https://kama5.link/">kama5.link</a><br>
 youtube: <a href="https://youtube.com/@kamaboko0505">youtube.com/@kamaboko0505</a><br>
 discord: <a href="https://discord.gg/ytCabSe3xp">discord.gg/ytCabSe3xp</a><br>
 

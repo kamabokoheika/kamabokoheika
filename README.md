@@ -2,7 +2,7 @@
 web site: <a href="https://kama5.link/">kama5.link</a><br>
 youtube: <a href="https://youtube.com/@kamaboko0505">youtube.com/@kamaboko0505</a><br>
 discord: <a href="https://discord.gg/ytCabSe3xp">discord.gg/ytCabSe3xp</a><br>
-![](https://komarev.com/ghpvc/?username=kamabokoheika&color=e6e6fa&style=plastic&label=カウンター)
+![](https://komarev.com/ghpvc/?username=kamabokoheika&color=e6e6fa&style=plastic&label=ᗜˬᗜ)
 <details><summary>どうでも良すぎる自己紹介</summary>
 
 名前:かまぼこ陛下<br>

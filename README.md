@@ -15,7 +15,7 @@ discord: <a href="https://discord.gg/ytCabSe3xp">discord.gg/ytCabSe3xp</a><br>
 <a href="https://emoji.gg/emoji/6283_marisafly"><img src="https://cdn3.emoji.gg/emojis/6283_marisafly.gif" width="64px" height="64px" alt="marisafly"></a>
 <img src="https://img.amiami.com/images/product/main/222/GOODS-04230811.jpg" width="64px" height="64px">
 <a href="https://emoji.gg/emoji/nazrin"><img src="https://cdn3.emoji.gg/emojis/nazrin.gif" width="64px" height="64px" alt="nazrin"></a>
-<img src="https://github.com/kamabokoheika/kamabokoheika/blob/main/%E3%81%8B%E3%81%BE%E3%81%BC%E3%81%93%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png?raw=true" width="64px" height="64px" alt="かまぼこ">
+<img src="https://github.com/kamabokoheika/kamabokoheika/blob/main/%E3%81%8B%E3%81%BE%E3%81%BC%E3%81%93%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png?raw=true" width="64px" height="64px" alt="かまぼこアイコン">
 ![](https://hit.yhype.me/github/profile?user_id=175094023)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamabokoheika/kamabokoheika/output/github-contribution-grid-snake-dark.svg">
